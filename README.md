@@ -8,8 +8,6 @@
 <p>composer install/composer update</p>
 <p>php spark serve</p>
 <br>
-<br>
-<br>
 
 ## Setup
 
