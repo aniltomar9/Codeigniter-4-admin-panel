@@ -3,7 +3,7 @@
 
 ## Installation & updates
 
-Use Below Commands
+<p>Use Below Commands</p>
 git clone https://github.com/aniltomar9/Codeigniter-4-admin-panel.git
 composer install/composer update
 php spark serve
